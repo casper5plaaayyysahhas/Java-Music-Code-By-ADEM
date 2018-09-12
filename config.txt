@@ -1,4 +1,4 @@
-token=NDgzMjk0MTkzMzQzNjYwMDMz.Dnmdiw.CvXzQIQ6T5YeEw-v7W-ujJgG2dY
-owner=389100615432929290
-prefix=S
+token=NDg5NTQ4NDQ5Njk2NTc5NTg2.DnsXXQ.aos5tsin5Sug6qC3zLgLwJzGVSY
+owner=299180197792710657
+prefix=e
 stayinchannel=true
