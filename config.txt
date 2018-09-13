@@ -1,4 +1,4 @@
 token=NDg5NTQ4NDQ5Njk2NTc5NTg2.DnsXXQ.aos5tsin5Sug6qC3zLgLwJzGVSY
-owner=299180197792710657
+owner=408926307372498945
 prefix=e
 stayinchannel=true
